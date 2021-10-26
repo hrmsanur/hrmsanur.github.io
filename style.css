@@ -40,7 +40,9 @@
   }
 
   #tigaAcara {
-    padding: 30px;
+    margin-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 0;
   }
   /* #Quotes {
     padding: 30px;
